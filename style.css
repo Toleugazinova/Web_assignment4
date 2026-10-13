@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial,sans-serif;
+}
+h2{
+    text-align: center;
+}
+.form{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color:white;
+    width: 90%;
+    max-width: 600px;
+}
+textarea {
+    resize: vertical;
+}
